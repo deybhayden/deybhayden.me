@@ -14,4 +14,4 @@ Over my career, however, I have transitioned from engineering primarily to manag
 
 On a personal note, I'm a gamer, basketball fan, and musician from Springfield, MO, where my and lovely wife and I raise our two kiddos.
 
-If you'd like to connect, please [contact](mailto:contact@deybhayden.me) me!
+If you'd like to connect, please [email](mailto:contact@deybhayden.me) me or reach out on [Twitter](https://twitter.com/deybhayden) or [LinkedIn](https://www.linkedin.com/in/benhayden/)!

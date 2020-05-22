@@ -11,7 +11,7 @@ googleAnalytics = "UA-167363974-1"
 [params]
 title = "Ben Hayden"
 author = "Ben Hayden"
-description = "👋 Hey, what's up?"
+description = "👨🏼‍💻 Software Engineer"
 profilePicture = "images/profile.jpg"
 keywords = "ben hayden, software engineer, engineer manager"
 mainSections = ["post"]
