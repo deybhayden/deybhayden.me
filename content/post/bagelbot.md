@@ -4,7 +4,6 @@ date: 2017-12-12T21:01:11-06:00
 Description: ""
 Tags: ["remote work", "management"]
 Categories: []
-DisableComments: false
 ---
 
 ## Connecting with people in a Remote Workplace
@@ -13,11 +12,11 @@ Remote workforces are fairly common these days, especially in tech startups, but
 
 Every other week (for our company), Bagelbot takes attendance at a given time, asking people if they will be attending this weeks meeting:
 
-![Bagelbot so wishes you’d join in](post/images/bagelbot1.png)*Bagelbot so wishes you’d join in*
+![Bagelbot so wishes you’d join in](/images/bagelbot1.png)*Bagelbot so wishes you’d join in*
 
 Then, after a specified amount of time passes, he quits listening for attendance responses and generates random pairs of at least 3 people. He then spits out the pairs in a channel, accompanied by a Google Hangout link for the different parties to use.
 
-![n.ame format is used to avoid spamming unavailable people](post/images/bagelbot2.png)*n.ame format is used to avoid spamming unavailable people*
+![n.ame format is used to avoid spamming unavailable people](/images/bagelbot2.png)*n.ame format is used to avoid spamming unavailable people*
 
 That’s pretty much it! The bot itself is a handful of scripts posting/receiving messages. The scheduling piece is just managed by a simple recurring cronjob on a AWS t2.micro Linux instance. Check it out on [GitHub](https://github.com/statmuse/bagelbot) for more technical details/questions.
 

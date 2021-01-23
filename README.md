@@ -1,6 +1,6 @@
 # deybhayden.me
 
-My personal website built with [hugo](https://gohugo.io/) using the [anatole](https://github.com/lxndrblz/anatole) theme.
+My personal website built with [hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme.
 
 ## usage
 

@@ -4,7 +4,6 @@ date: 2020-04-09T10:30:00-06:00
 Description: "BriteCore's Favorite Remote Tools"
 Tags: ["trends","technology","remote work","strategy"]
 Categories: []
-DisableComments: false
 ---
 
 *Note:* When the COVID-19 pandemic hit US shores in the spring of 2020, I worked with BriteCore to author a post on our favorite remote work tools. The below post is lifted from [BriteCore's blog](https://www.britecore.com/resources/britecores-favorite-tools-for-remote-work).

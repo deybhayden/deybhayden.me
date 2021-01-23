@@ -1,65 +1,105 @@
 baseURL = "https://deybhayden.me/"
-languageCode = "en-us"
-title = "Software Engineer"
-theme = "anatole"
-summarylength = 10
-enableEmoji = true
-
-# Google Analytics
+title = "Ben Hayden"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 googleAnalytics = "UA-167363974-1"
 
+[minify]
+disableXML = true
+minifyOutput = true
+
 [params]
+env = "production"
 title = "Ben Hayden"
-author = "Ben Hayden"
-description = "👨🏼‍💻 Software Engineer"
-profilePicture = "images/profile.jpg"
-keywords = "ben hayden, software engineer, engineer manager"
-mainSections = ["post"]
+description = "Ben Hayden's Personal Blog"
+author = "Me"
+# images = []
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+disableSpecial1stPost = false
+comments = false
+hidemeta = false
+showtoc = false
+tocopen = false
 
-## Math settings
-[params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
+  [params.assets]
+  favicon = "favicon.ico"
 
-## Social links
-[[params.socialIcons]]
-icon = "fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/benhayden/"
+  # [params.label]
+  # text = "Ben Hayden"
+  # icon = "/apple-touch-icon.png"
+  # iconHeight = 35
 
-[[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/deybhayden/"
+  [params.profileMode]
+  enabled = true
+  title = "Ben Hayden"
+  imageUrl = "images/profile.jpg"
+  imageWidth = 256
+  imageHeight = 256
+  imageTitle = "it'sa me"
 
-[[params.socialIcons]]
-icon = "fa-twitter"
-title = "Twitter"
-url = "https://www.twitter.com/deybhayden"
+    [[params.profileMode.buttons]]
+    name = "About"
+    url = "about"
 
-[[params.socialIcons]]
-icon = "fa-envelope"
-title = "e-mail"
-url = "mailto:contact@deybhayden.me"
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
 
-## Menu items
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
 
-[menu]
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/benhayden/"
 
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/deybhayden/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://www.twitter.com/deybhayden"
 
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:contact@deybhayden.me"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/post/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 30
