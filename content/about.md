@@ -13,6 +13,6 @@ I've worked fully remote for over five years at this point and enjoy the flexibi
 
 Over my career, however, I have transitioned from engineering primarily to management. I have led small engineering teams as a tech lead and then moved to a director position, and currently, I am operating as the VP of Engineering at [BriteCore](https://www.britecore.com/). I am responsible for ensuring that product requirements are met, overseeing user experiences' consistency, and managing a team of fantastic engineers building an enterprise-level cloud-based core insurance platform.
 
-On a personal note, I'm a gamer, basketball fan, and musician from Springfield, MO, where my and lovely wife and I raise our two kiddos.
+On a personal note, I'm a gamer, basketball fan, and musician from Springfield, MO, where my lovely wife and I raise our two kiddos.
 
 If you'd like to connect, please [email](mailto:contact@deybhayden.me) me or reach out on [Twitter](https://twitter.com/deybhayden) or [LinkedIn](https://www.linkedin.com/in/benhayden/)!
