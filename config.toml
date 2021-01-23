@@ -101,7 +101,7 @@ weight = 20
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
-url = "/post/"
+url = "/posts/"
 weight = 30
 
 [[menu.main]]
