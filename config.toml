@@ -77,14 +77,14 @@ tocopen = false
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1_000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = [ "title", "permalink", "summary", "content" ]
+  # [params.fuseOpts]
+  # isCaseSensitive = false
+  # shouldSort = true
+  # location = 0
+  # distance = 1_000
+  # threshold = 0.4
+  # minMatchCharLength = 0
+  # keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
 identifier = "home"
@@ -93,13 +93,19 @@ url = "/"
 weight = 10
 
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/post/"
-weight = 20
-
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
+weight = 20
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/post/"
 weight = 30
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive/"
+weight = 40

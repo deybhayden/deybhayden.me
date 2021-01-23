@@ -3,6 +3,7 @@ title: "About"
 description: "Just a bit about me"
 date: "2020-05-21"
 aliases: ["about-us","about-me","contact"]
+disableShare: true
 author: "Ben Hayden"
 ---
 
