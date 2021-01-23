@@ -1,7 +1,7 @@
 ---
 title: "Manager README"
 date: 2020-05-16T00:03:12-05:00
-Description: ""
+Description: "Ben Hayden Manager README"
 Tags: ["manager", "management"]
 Categories: []
 DisableComments: false
