@@ -35,7 +35,7 @@ As far as availability, I like to see most folks be available for video calls fr
 
 ### 1:1s
 
-I have 1:1s with my direct reports for about 45 minutes twice a month. I recommend all my managers have at a minimum 30 minute meetings with direct reports twice a month. Usually, I run my 1:1s as an ongoing casual conversation. If individuals have topics they want to discuss, I encourage them to write a meeting agenda. Also, if we need more than 45 minutes, that's cool, I just would like to know before we get together for scheduling purposes.
+I have 1:1s with my direct reports for about 1 hour twice a month. I recommend all my managers have at a minimum 30 minute meetings with direct reports twice a month. Usually, I run my 1:1s as an ongoing casual conversation. If individuals have topics they want to discuss, I encourage them to write a meeting agenda. Also, if we need more than 1 hour, that's cool, I just would like to know before we get together for scheduling purposes.
 
 ### Personality quirks
 
